@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GBG3003
+- 👀 I’m interested in computer programming
+- 💞️ I’m looking to collaborate on programmers
